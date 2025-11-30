@@ -1,6 +1,9 @@
 [project]
 name = "large-image-viewer"
 version = "1.0.0"
+authors = [
+    { name = "Alejandro Lorenzo Ruiz" }
+]
 description = "A simple, high-performance viewer for very large images using OpenSeadragon"
 readme = "README.md"
 requires-python = ">=3.9"

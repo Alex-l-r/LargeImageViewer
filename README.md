@@ -1,6 +1,6 @@
 # Large Image Viewer
 
-A simple, high-performance viewer for very large images using OpenSeadragon's Deep Zoom technology.
+A simple, high-performance viewer for very large images using OpenSeadragon's Deep Zoom technology. Initially conceived to inspect full wafer images in semiconductor fabrication processes but should fit many other applications.
 
 ## Features
 

@@ -1,0 +1,67 @@
+# Git
+.git
+.gitignore
+
+# Python
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.tox
+.coverage
+.pytest_cache
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+tiles/
+uploads/
+dev_uploads/
+static/
+*.jpg
+*.jpeg
+*.png
+*.tiff
+*.tif
+*.bmp
+*.webp
+*.dzi
+*_files/
+*_meta.json
+
+# Legacy files
+server.py
+server_new.py
+server_old.py
+dev_server.py
+convert_to_dzi.py
+health-check.py
+test_*.py
+run-docker.bat
+run-docker.sh
+index.html
+
+# Docker
+Dockerfile*
+docker-compose*
+.dockerignore
+
+# Documentation
+*.md
+!README.md
